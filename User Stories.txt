@@ -1,0 +1,18 @@
+Fänge eintragen
+... von Konsole
+... von einer Karte (click)
+... mit automatisch wetter eintragung
+... mit Bild von fish und erkennung die daten wie art und grösse
+... beiträge an social media teilen (Facebook, tiktok, etc)
+
+Fänge zeigen
+... auf einer karte
+
+Fänge speichern
+Fänge laden
+
+Analyse / suche
+... bei bestimmte wetter und jahreszeit
+... was kann ich hier fangen (wetter, zeit, mond, etc)
+... methode
+... was würde mit blinker farbe X gefangen

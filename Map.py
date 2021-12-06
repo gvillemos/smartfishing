@@ -3,6 +3,7 @@ import folium
 import csv
 import time
 
+#TEST
 # The record of a catch. Replace with Mikkel's data model when GITHUB is working
 class catch:
     # Attributes of a catch
