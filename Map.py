@@ -53,6 +53,7 @@ class datastore :
 # In the future make this either the current position of the mobile phone or a selected position
 position = [55.95705419727239, 11.77694151701307]
 m = folium.Map(position)
+m.add_child(folium.LatLngPopup())
 
 # Create the data store and read in the data
 store = datastore()
